@@ -1,0 +1,2 @@
+# E-Rapot-Pelita
+ E-Rapor adalah sebuah sistem aplikasi berbasis web yang di harapkan dapat mengubah pola kerja guru dari pola manual ke pola digital.  E-Rapor dapat mempermudah guru dalam melakukan penilaian siswa, bahkan sampai ke pencetakan rapor dan evaluasi nilai hasil belajar siswa. E-Rapor juga diharapkan dapat memberikan manfaat untuk dunia pendidikan dan dapat memberikan efek positif terhadap dunia pendidikan untuk lebih berkembang dan maju di era digital ini.
